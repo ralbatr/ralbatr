@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ralbatr
+- 👀 I’m interested in 前端
+- 🌱 I’m currently learning TypeScript
+- 📫 by Email
